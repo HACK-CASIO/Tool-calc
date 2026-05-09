@@ -1,4 +1,4 @@
-# Tinh dien tich hinh chu nhat
+# Tinh hinh chu nhat
 
 menu = ["1: chu_vi", "2: dien_tich"]
 
